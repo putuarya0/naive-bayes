@@ -1,8 +1,3 @@
-📌 Deskripsi
-
-Program ini adalah implementasi sederhana dari algoritma Naive Bayes untuk klasifikasi email spam berbasis 10 fitur (kata-kata tertentu yang sering muncul dalam spam). Data dibaca dari file CSV (spambase_10features.csv) yang memuat nilai-nilai fitur dan label (0 untuk bukan spam, 1 untuk spam).
-
-
 🔧 Fitur Program
 1. Membaca data email dari file CSV.
 2. Menyimpan data dalam linked list.
