@@ -27,7 +27,9 @@ fitur0, fitur1, ..., fitur9, label
 4. Skor tertinggi menentukan prediksi label.
 
 🧪 Contoh Penggunaan
+
 Program akan menanyakan input seperti:
+
 Masukkan fitur uji:
 Fitur[0] = 0.21
 Fitur[1] = 0.12
